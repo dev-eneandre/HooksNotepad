@@ -122,6 +122,9 @@
     font-family: "RobotoSlab-Bold";
     text-align: center;
     font-weight: 400;
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--darkThemeTextColor);
+ 
 }
 .home__allNotes__note p{
     padding-top: 10px;
@@ -129,6 +132,7 @@
     letter-spacing : 0.11rem;
     
 }
+
 
 /* dark theme  */
 .home.dark{

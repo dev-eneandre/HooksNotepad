@@ -12,11 +12,8 @@ const Home = () => {
     const [title, setTitle ] = useState("");
     const [noteBodyText, setNoteBodyText ] = useState("");
     const [notelist, setNoteList ] = useState([
-        {title: "notepad with hooks ", noteBody : "tofay is fonna be a great day "},
-        {title: "shopping list ", noteBody : "is fonna be a great day tofay is fonna be a great day tofay is fonna be a great day tofay is fonna be a great day "},    
-        {title: "shopping list ", noteBody : "tofay is fonna be a great day tofay is fonna be a great day tofay is fonna be a great day tofay is fonna be a great day tofay cardi beeee"},    
-        {title: "shopping list ", noteBody : "be a great mrghan thee stallion"}    
-    ])
+        {title: "notepad with hooks ", noteBody : "Sample note to show it works "}
+       ])
 
     const ThemeToggler = () => {
         setTheme(!theme);

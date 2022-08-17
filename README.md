@@ -26,7 +26,7 @@ React Js -> Hooks
 
 Inspiration of the project 
 * Creating a simple note pad application without the use of state heavy state management (a more complex state management note pad application will be uploaded in less than a week, it will be created using more complex tools like context API).
-* Dabbling in creating a dark themed or light theme optioned project
+* Dabbling in creating a dark themed and light theme optioned project
 
-How to reach me the author 
+How to reach the author of this project
 email : iameneandre@gmail.com

@@ -1,9 +1,6 @@
 # HooksNotepad
 Notepad created with react hooks
 
-
-Read Me 
-
 Project Title
 Notepad with React Hooks
 
